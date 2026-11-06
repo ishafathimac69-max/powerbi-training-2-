@@ -2,7 +2,7 @@
 ## sales analysis 
 ### DATA CLEANING
 - checked missing and blank values
-- checked duplicate values
+- checked duplicate value
 - changed data types
 - renamed columns
 - filtered and organized data
